@@ -29,10 +29,10 @@
   },
   {
     "py/object": "model.group.Group",
-    "footer": "footerJE a{#!;Qe$lG'w`v",
-    "header": "header$HpKp*^5[ h",
+    "footer": "footer-test",
+    "header": "header-test",
     "id": null,
-    "name": "name$ I}"
+    "name": "name-test"
   },
   {
     "py/object": "model.group.Group",
